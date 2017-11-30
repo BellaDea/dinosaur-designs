@@ -1,5 +1,28 @@
 html {
   background-color: #f2f1ed;
-  font-family: Georgia, serif;
+  font-family: "Patua 0ne", serif;
   line-height: 1.5;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+ol li {
+  color: #5d8432;
+}
+
+.nav a:link {
+  color: #793284;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: #b42885;
+}
+
+ol {
+  list-style-type: none;
 }
